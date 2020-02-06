@@ -2,8 +2,6 @@
 
 ![Alt text](https://hackernoon.com/drafts/523x232ih.png)
 
-## Boston housing price prediction
-
 # Outline
 * [Pre-requisites](#pre-requisites)
 * [How to run](#how-to-run)
